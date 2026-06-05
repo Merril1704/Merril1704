@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Merril Baiju 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · VIT Chennai · Open to Opportunities</b><br/>
+  <b>AI/ML Engineer · VIT Vellore · Open to Opportunities</b><br/>
   <i>Building intelligent systems, one model at a time.</i>
 </p>
 
