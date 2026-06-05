@@ -1,15 +1,15 @@
-<!-- GitHub Profile README — Merril1704 -->
-
 <h1 align="center">Hi, I'm Merril Baiju 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · VIT Vellore · Open to Opportunities</b><br/>
-  <i>Building intelligent systems, one model at a time.</i>
+  <b>AI/ML Engineer &nbsp;·&nbsp; VIT Vellore &nbsp;·&nbsp; Open to Opportunities</b><br/>
+  <i>Building intelligent systems that are accurate, explainable, and production-ready.</i>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-189a00?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
@@ -21,15 +21,15 @@
 
 ### About me
 
-Final-year CS student at VIT Chennai, specializing in AI/ML engineering.
-I build end-to-end ML systems — from data pipelines to deployed APIs.
-Currently deep-diving into agentic AI, RAG systems, and production ML.
+Final-year CS student at VIT Vellore, focused on AI/ML engineering.
+I build research-grade ML systems — from explainable AI and anomaly detection to MLOps and data pipelines.
+Interested in making models that are not just accurate, but trustworthy and production-ready.
 
 - 🔭 Working on: Agentic AI pipelines & RAG systems
 - 🌱 Learning: LLMOps, MLflow, ReAct agents
 - 💼 Seeking: AI Engineer / Data Scientist roles
-- 📍 Based in: Chennai, India
-- 💬 Ask me about: ML pipelines, NLP, time-series forecasting
+- 📍 Based in: Vellore, India
+- 💬 Ask me about: XAI, ML pipelines, time-series forecasting, MLOps
 
 ---
 
@@ -37,18 +37,18 @@ Currently deep-diving into agentic AI, RAG systems, and production ML.
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔋 [Carbon Intensity Forecasting](https://github.com/Merril1704/carbon-intensity-forecast-bi) | Forecasting India's electricity grid carbon intensity using LSTM, XGBoost & autoencoders. Includes anomaly detection & trend analysis. | Python · LSTM · XGBoost · Jupyter |
-| 🚗 [MotorMate](https://github.com/Merril1704/MotorMate) | AI-powered car recommendation & comparison web app with LLM-driven natural language querying. | Python · LLM · FastAPI |
-| 🐚 [py-aishell-engine](https://github.com/Merril1704/py-aishell-engine) | Custom Python REPL with natural language command support and an AI-enhanced shell engine. | Python · NLP · CLI |
-| 💰 [Balancio](https://github.com/Merril1704/balancio) | AI-powered financial management tool for early-stage startups. | JavaScript · AI |
+| 🛡️ [SCENet](https://github.com/Merril1704/SCENet) | Operationalized Neuro-Fuzzy Inference System (ANFIS) for explainable financial fraud detection with real-time concept drift monitoring. | Python · ANFIS · XAI · Drift Detection |
+| 🔋 [Carbon Intensity Forecasting](https://github.com/Merril1704/carbon-intensity-forecast-bi) | Forecasting India's electricity grid carbon intensity (2021–2024) using LSTM, XGBoost, and autoencoders with anomaly detection. | Python · LSTM · XGBoost · Autoencoder |
+| 📉 [Layoff Risk Predictor](https://github.com/Merril1704/layoff-risk-predictor) | Predicts individual tech layoff risk from resume data, company health metrics, and market sentiment analysis using Random Forest. | Python · Random Forest · NLP · Data Analytics |
+| 🤖 [ModelGaurd](https://github.com/Merril1704/ModelGaurd) | Pre-deployment model failure prediction using meta-learning on training dynamics — catches failing models before they ship. | Python · Meta-Learning · MLOps |
 
 ---
 
 ### Tech stack
 
 ```
-ML/AI      →  PyTorch · TensorFlow · Scikit-learn · HuggingFace · LangChain
-Data       →  Pandas · NumPy · SQL · Matplotlib · Seaborn
+ML / AI    →  PyTorch · Scikit-learn · XGBoost · HuggingFace · LangChain · ANFIS
+Data       →  Pandas · NumPy · SQL · Matplotlib · Seaborn · Jupyter
 Backend    →  FastAPI · SQLAlchemy · PostgreSQL
 DevOps     →  Docker · Git · Linux
 ```
