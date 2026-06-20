@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/fCML5OJ7Mh0AAAAC/city-skyline.gif" width="100%" alt="pixel art city skyline"/>
+<img src="https://media.tenor.com/fCML5OJ7Mh0AAAAC/city-skyline.gif" width="100%" height="60%" alt="pixel art city skyline"/>
 
 # Merril Baiju
 **AI / ML Engineer &nbsp;·&nbsp; VIT Vellore &nbsp;·&nbsp; Building intelligent, production-ready systems**
